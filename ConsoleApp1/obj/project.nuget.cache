@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "xIxiz5yhNgGgpjYeoM2rb7Mqf/1jNYbyULtBlfpJw3BISE2vPz1AbQbQRwQoVh7Z1s28//kLpODKpiTfpCePXw==",
+  "success": true,
+  "projectFilePath": "G:\\VisualStudioCsharp\\projectfordeccer\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\givem\\.nuget\\packages\\opentk\\3.3.0\\opentk.3.3.0.nupkg.sha512",
+    "C:\\Users\\givem\\.nuget\\packages\\sixlabors.imagesharp\\1.0.3\\sixlabors.imagesharp.1.0.3.nupkg.sha512",
+    "C:\\Users\\givem\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'OpenTK 3.3.0' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "OpenTK",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
+}
