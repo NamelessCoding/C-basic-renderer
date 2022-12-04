@@ -1,2 +1,2 @@
-# C-basic-renderer
+# Csharp-basic-renderer
 Basic c# renderer
